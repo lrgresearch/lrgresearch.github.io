@@ -2,10 +2,8 @@
 layout: default
 ---
 
-![Banner](assets/logo2024.png)
 
-
-## News
+## News / Haberler
 
 ### October 2023
 
