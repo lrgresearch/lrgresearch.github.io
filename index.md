@@ -9,7 +9,7 @@ layout: default
 
 ### October 2023
 
-* ![100th Anniversary](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/tr.png) On the 100th anniversary (Oct 29th, 2023) of our independent Turkish Republic, we commemorate with gratitude all our martyrs and veterans who enabled us to do science freely.
+* ![100th Anniversary](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/tr.png)  On the 100th anniversary (Oct 29th, 2023) of our independent Turkish Republic, we commemorate with gratitude all our martyrs and veterans who enabled us to do science freely.
 * A new article "[Electronic Properties of a Novel Boron Polymorph: Ogee-Borophene](https://doi.org/10.1155/2023/9933049)" is published in Adv. Condens. Matter Phys.
 * New version (v23.10.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). Please refer to [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-23100).
 
@@ -268,8 +268,6 @@ Version 1.2 can be downloaded from this [link](https://github.com/sblisesivdin/a
 *Feb 1 2017, by S. B. Lisesivdin*
 
 2016 TÜBA "International Academy Prizes, GEBİP and TEÇEP Awards” were handed to the owners under the auspices of the Presidency with the ceremony held on February 1, 2017, in the Presidential Complex. Assoc. Prof. Sefer Bora Lisesivdin was awarded the TÜBA GEBİP Prize in the category of Physics. He received his award from deputies of Prime Minister Nurettin Canikli.
-
-![Image](../../assets/images/tuba2017.jpg)
 
 ### Publications in 2016!
 
