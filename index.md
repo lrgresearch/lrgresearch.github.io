@@ -542,9 +542,3 @@ We got 3 new publications in the last few months:
 * P. Tasli, S. B. Lisesivdin, A. Yildiz, M. Kasap, E. Arslan, E. Ozbay, and S. Ozcelik, “Well parameters of two-dimensional electron gas in Al0.88In0.12N/AlN/GaN/AlN heterostructures grown by MOCVD” Cryst. Res. Tech. 45, 133 (2010).
 * A. Yildiz, S. B. Lisesivdin, M. Kasap, S. Ozcelik, E. Ozbay, and N. Balkan “Investigation of low-temperature electrical conduction mechanisms in highly resistive GaN bulk layers extracted with SPCEM” Appl. Phys. A 98, 557 (2010).
 * A. Yildiz, S. B. Lisesivdin, P. Tasli, E. Ozbay, and M. Kasap “Determination of the critical indium composition corresponding to the metal-insulating transition in InxGa1-xN (0.06 < x < 0.135) layers” Curr. Appl. Phys. 10, 838 (2010).
-
-## About this site
-
-Biscuit is derived from the currently deprecated theme [Solo](http://github.com/chibicode/solo). Biscuit is developed and maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
