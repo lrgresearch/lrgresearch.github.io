@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-After December 2023, we will use our institutional website for our website needs. There are many small websites under https://lrgresearch.org. You can find links for these sites below.
+After December 2023, we will use our institutional website for our website needs. There are many small websites under [https://lrgresearch.org](https://lrgresearch.org). You can find links for these sites below.
 
 ## LRG Websites
 
 | Website | Description                           |
 | -------------------------------------- | ------------------------------------ |
 | ![LRG Website](assets/logo2024.png) | Institutional website for LRG. [Visit site](https://avesis.gazi.edu.tr/arastirma-grubu/lrg)|
+| ![SBL Website](assets/sbl150.png) | Sefer Bora Lisesivdin's personal webpage. [Visit site](https://lrgresearch.org/bora)|
 
 ## Project websites
 
