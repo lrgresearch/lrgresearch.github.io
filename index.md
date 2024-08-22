@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-After December 2023, we will use our institutional website for our website needs. There are many small websites under [https://lrgresearch.org](https://lrgresearch.org). You can find links for these sites below.
+After December 2023, we use our corporate website for our website needs. There are some small websites under [https://lrgresearch.org](https://lrgresearch.org). You can find links for these sites below.
 
 ## LRG Websites
 
