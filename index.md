@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-After December 2023, we use our corporate website for our website needs. There are some small websites under [https://lrgresearch.org](https://lrgresearch.org). You can find links for these sites below.
+This page is redirected to the new institutional website. If it does not redirect, [please click](https://avesis.gazi.edu.tr/arastirma-grubu/lrg). 
+
+Some small websites under the lrgresearch.org domain are listed below:
 
 ## LRG Websites
 
